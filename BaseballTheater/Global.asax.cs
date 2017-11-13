@@ -5,6 +5,8 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
+//test1
+
 namespace BaseballTheater
 {
 	public class MvcApplication : System.Web.HttpApplication
