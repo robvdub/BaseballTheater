@@ -6,9 +6,6 @@ using System.Web.Optimization;
 using System.Web.Routing;
 
 //test1
-//test2
-//test 3 did credentials cache?
-
 
 namespace BaseballTheater
 {
