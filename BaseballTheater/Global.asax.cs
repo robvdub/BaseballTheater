@@ -11,9 +11,6 @@ using BaseballTheater.Areas.Auth.Models;
 using MlbDataEngine.Engine;
 
 //test1
-//test2
-//test 3 did credentials cache?
-
 
 namespace BaseballTheater
 {
